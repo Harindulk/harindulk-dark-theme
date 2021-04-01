@@ -1,0 +1,27 @@
+{
+    "name": "Harindulk-Dark",
+    "displayName": "Harindulk Dark",
+    "description": "Harindulk Theme!",
+    "version": "0.0.1",
+    "publisher":"harindulk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Harindulk/harindulk-dark-theme"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    
+    "contributes": {
+        "themes": [
+            {
+                "label": "Harindulk Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Harindulk Dark-color-theme.json"
+            }
+        ]
+    }
+}
