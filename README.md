@@ -2,13 +2,11 @@
 This is My First Visual Studio Code Theme
 
 if you like this theme you can use it and give me a feedback
-<<<<<<< Updated upstream
 
 Download it 👇👇👇
 
 https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark
 
-=======
 ## Screenshots
 
 ### CSS
@@ -22,4 +20,3 @@ https://marketplace.visualstudio.com/items?itemName=Harindulk.Harindulk-Dark
 ### JavaScript
 
 ![JavaScript screenshot](Screenshot-Javascript.png)
->>>>>>> Stashed changes
