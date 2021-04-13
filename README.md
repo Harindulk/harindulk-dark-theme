@@ -1,6 +1,7 @@
 # Harindulk Dark 
 
-![version number](http://vsmarketplacebadge.apphb.com/version/Harindulk.Harindulk-Dark.svg)
+![version number](http://vsmarketplacebadge.apphb.com/version/Harindulk.Harindulk-Dark.svg) 	
+![ok](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 
 This is My First Visual Studio Code Theme
